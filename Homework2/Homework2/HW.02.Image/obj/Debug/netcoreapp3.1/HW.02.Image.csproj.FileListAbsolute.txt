@@ -1,0 +1,13 @@
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.exe
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.deps.json
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.runtimeconfig.json
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.runtimeconfig.dev.json
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.dll
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\bin\Debug\netcoreapp3.1\HW.02.Image.pdb
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.csprojAssemblyReference.cache
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.AssemblyInfo.cs
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.dll
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.pdb
+D:\Programming\Visual Studio projects\Homework2\HW.02.Image\obj\Debug\netcoreapp3.1\HW.02.Image.genruntimeconfig.cache
