@@ -1,4 +1,5 @@
 ﻿using System;
+using FlightCheckin.Utilities;
 
 namespace FlightCheckin
 {
@@ -78,6 +79,7 @@ namespace FlightCheckin
             if (!condition)
             {
                 Console.WriteLine(exitMessage);
+                Effect.PressAnyKey("(press any key to close the app)");
                 Environment.Exit(0);
             }
         }

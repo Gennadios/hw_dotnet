@@ -36,7 +36,7 @@ namespace FlightCheckin
         {
             Random rand = new Random();
 
-            return $"МР{rand.Next(1000000, 9999999)}";
+            return $"MP{rand.Next(1000000, 9999999)}";
         }
 
         internal void InitializePassportInfo()

@@ -11,6 +11,7 @@ namespace FlightCheckin.Actions
             CheckPassenger(passenger);
 
             Console.WriteLine("It is finally over! Have a nice flight.");
+            Effect.PressAnyKey("(press any key to close the app)");
         }
 
         static void CheckPassenger(Passenger passenger)
