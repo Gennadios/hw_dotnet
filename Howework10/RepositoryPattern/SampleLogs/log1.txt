@@ -1,0 +1,38 @@
+2021-03-23 13:39:21.087 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:39:21.152 +03:00 [INF] Successfully retrieved {@motorcycles[i]} by ID {@motoId}}
+2021-03-23 13:42:56.918 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:42:57.005 +03:00 [INF] Successfully retrieved {@motorcycles[i]} by ID {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"}}
+2021-03-23 13:44:05.462 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:44:05.535 +03:00 [INF] Successfully retrieved RepositoryPattern.Motorcycle by ID 234
+2021-03-23 13:44:34.292 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:44:34.353 +03:00 [INF] Successfully retrieved RepositoryPattern.Motorcycle by ID 234
+2021-03-23 13:45:01.814 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:45:01.878 +03:00 [INF] Successfully retrieved {@motorcycles[i]} by ID RepositoryPattern.Motorcycle
+2021-03-23 13:45:49.493 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:45:49.572 +03:00 [INF] Successfully retrieved 234 by ID 234
+2021-03-23 13:47:04.392 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:47:04.476 +03:00 [INF] Successfully retrieved 234 by ID 234
+2021-03-23 13:47:20.327 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:47:20.403 +03:00 [INF] Successfully retrieved {@motorcycles[i]} by ID RepositoryPattern.Motorcycle
+2021-03-23 13:47:46.322 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:47:46.393 +03:00 [INF] Successfully retrieved {@motorcycles[i]}
+2021-03-23 13:48:39.274 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:48:39.339 +03:00 [INF] Successfully retrieved {@motorcycles[i]}
+2021-03-23 13:50:20.862 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:50:20.947 +03:00 [INF] Successfully retrieved {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"}
+2021-03-23 13:51:10.360 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:51:10.444 +03:00 [INF] Successfully retrieved {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 13:51:26.132 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:51:26.215 +03:00 [INF] Successfully retrieved Motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 13:52:19.629 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:52:40.173 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:56:29.929 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:56:30.026 +03:00 [INF] Unable to retrieve a Motorcycle by ID 233
+2021-03-23 13:59:25.518 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 13:59:25.590 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.600 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.603 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.607 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.613 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.616 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 13:59:25.621 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234

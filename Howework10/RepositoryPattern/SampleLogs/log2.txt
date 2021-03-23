@@ -1,0 +1,77 @@
+2021-03-23 14:03:41.588 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:03:41.715 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.730 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.734 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.777 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.803 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.833 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:03:41.839 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:04:32.780 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:04:32.919 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.929 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.932 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.938 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.942 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.946 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:04:32.953 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:19:45.916 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:19:46.007 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.016 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.020 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.023 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.026 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.028 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:19:46.032 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:19:46.041 +03:00 [INF] Successfuly retrieved motorcycles collection by request.
+2021-03-23 14:19:46.042 +03:00 [INF] Successfully updated motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":8,"$type":"Motorcycle"}
+2021-03-23 14:19:46.048 +03:00 [INF] Successfuly deleted motorcycle {@moto} from the motorcycles collection
+2021-03-23 14:23:19.397 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:23:19.478 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.489 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.492 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.495 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.500 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.504 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:23:19.508 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:23:19.512 +03:00 [INF] Successfuly retrieved motorcycles collection by request.
+2021-03-23 14:23:19.513 +03:00 [INF] Successfully updated motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":8,"$type":"Motorcycle"}
+2021-03-23 14:23:19.520 +03:00 [ERR] Could not update motorcycle {@moto}, as it doesn't exist in current motorcycle collection
+2021-03-23 14:23:19.525 +03:00 [INF] Successfuly deleted motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} from the motorcycles collection
+2021-03-23 14:24:48.793 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:24:48.870 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.878 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.882 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.885 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.888 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.891 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:24:48.895 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:24:48.902 +03:00 [INF] Successfuly retrieved motorcycles collection by request.
+2021-03-23 14:24:48.903 +03:00 [INF] Successfully updated motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":8,"$type":"Motorcycle"}
+2021-03-23 14:24:48.906 +03:00 [ERR] Could not update motorcycle {@moto}, as it doesn't exist in current motorcycle collection
+2021-03-23 14:24:48.911 +03:00 [INF] Successfuly deleted motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} from the motorcycles collection
+2021-03-23 14:28:43.792 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:28:43.870 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.879 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.884 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.887 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.889 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.893 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:28:43.898 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234
+2021-03-23 14:28:43.906 +03:00 [ERR] Could not retrieve a motorcycle by ID 333
+2021-03-23 14:28:43.907 +03:00 [INF] Successfuly retrieved motorcycles collection by request.
+2021-03-23 14:28:43.909 +03:00 [INF] Successfully updated motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":8,"$type":"Motorcycle"}
+2021-03-23 14:28:43.912 +03:00 [ERR] Could not update motorcycle {"Id":999,"Name":"Harley Davidson","Model":"hd1","Year":1998,"Odometer":120000,"$type":"Motorcycle"}, as it doesn't exist in current motorcycle collection
+2021-03-23 14:28:43.924 +03:00 [INF] Successfuly deleted motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} from the motorcycles collection
+2021-03-23 14:29:47.954 +03:00 [INF] RepositoryPattern.Program has started running
+2021-03-23 14:29:48.041 +03:00 [INF] Successfully added motorcycle {"Id":123,"Name":"Yamaha","Model":"y1","Year":2020,"Odometer":15,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.051 +03:00 [INF] Successfully added motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.054 +03:00 [INF] Successfully added motorcycle {"Id":345,"Name":"Honda","Model":"h1","Year":2020,"Odometer":2,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.058 +03:00 [INF] Successfully added motorcycle {"Id":456,"Name":"Kawasaki","Model":"k1","Year":2021,"Odometer":3,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.061 +03:00 [INF] Successfully added motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":6,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.063 +03:00 [INF] Successfully added motorcycle {"Id":678,"Name":"Ural","Model":"u1","Year":1989,"Odometer":100,"$type":"Motorcycle"} to the motorcycles collection
+2021-03-23 14:29:48.071 +03:00 [INF] Successfully retrieved motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} by ID 234, as it doesn't exist in the current motorcycle collection
+2021-03-23 14:29:48.074 +03:00 [ERR] Could not retrieve a motorcycle by ID 333
+2021-03-23 14:29:48.075 +03:00 [INF] Successfuly retrieved motorcycles collection by request.
+2021-03-23 14:29:48.076 +03:00 [INF] Successfully updated motorcycle {"Id":567,"Name":"Ducatti","Model":"d1","Year":2020,"Odometer":8,"$type":"Motorcycle"}
+2021-03-23 14:29:48.079 +03:00 [ERR] Could not update motorcycle {"Id":999,"Name":"Harley Davidson","Model":"hd1","Year":1998,"Odometer":120000,"$type":"Motorcycle"}, as it doesn't exist in the current motorcycle collection
+2021-03-23 14:29:48.092 +03:00 [INF] Successfuly deleted motorcycle {"Id":234,"Name":"Suzuki","Model":"s1","Year":2021,"Odometer":18,"$type":"Motorcycle"} from the motorcycles collection
